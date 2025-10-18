@@ -1,0 +1,289 @@
+Informant,Rank,Item
+P1,1,viola
+P1,2,blu
+P1,3,verde
+P1,4,rosso
+P1,5,rosa
+P1,6,celeste
+P1,7,blu scuro
+P1,8,fucsia
+P1,9,verde chiaro
+P1,10,lilla
+P1,11,rosa chiaro
+P1,12,arancione
+P1,13,giallo
+P1,14,violetto
+P1,15,turchese
+P1,16,giallo scuro
+P1,17,marrone
+P1,18,nero
+P1,19,bianco
+P1,20,grigio
+P2,1,giallo
+P2,2,rosso
+P2,3,verde
+P2,4,viola
+P2,5,marrone
+P2,6,azzurro
+P2,7,arancione
+P2,8,blu
+P2,9,rosa
+P2,10,grigio
+P2,11,bianco
+P2,12,nero
+P3,1,rosa
+P3,2,marrone
+P3,3,rosso
+P3,4,blu
+P3,5,nero
+P3,6,giallo
+P3,7,arancione
+P3,8,verde
+P3,9,verde chiaro
+P3,10,verde scuro
+P3,11,grigio
+P3,12,viola
+P4,1,verde
+P4,2,rosso
+P4,3,arancione
+P4,4,viola
+P4,5,fucsia
+P4,6,giallo
+P4,7,verde acqua
+P4,8,bianco
+P4,9,nero
+P4,10,rosa
+P4,11,grigio
+P4,12,marrone
+P4,13,celeste
+P4,14,blu
+P5,1,rosso
+P5,2,arancione
+P5,3,giallo
+P5,4,verde
+P5,5,blu
+P5,6,celeste
+P5,7,viola
+P5,8,fucsia
+P5,9,rosa
+P5,10,rosa carne
+P5,11,turchese
+P5,12,verde acqua
+P5,13,nero
+P5,14,bianco
+P5,15,oro
+P5,16,argento
+P5,17,marrone
+P5,18,grigio
+P5,19,marrone chiaro
+P5,20,arancione scuro
+P5,21,violetto
+P5,22,rosso chiaro
+P5,23,rosso scuro
+P5,24,arancione chiaro
+P6,1,rosso
+P6,2,giallo
+P6,3,verde
+P6,4,nero
+P6,5,bianco
+P6,6,rosa
+P6,7,viola
+P6,8,arancione
+P6,9,azzurro
+P6,10,blu
+P6,11,verde acqua
+P6,12,rosa carne
+P6,13,marrone
+P6,14,grigio
+P6,15,lilla
+P7,1,nero
+P7,2,grigio
+P7,3,marrone
+P7,4,bianco
+P7,5,rosso
+P7,6,arancione
+P7,7,giallo
+P7,8,verde
+P7,9,celeste
+P7,10,blu
+P7,11,rosa
+P7,12,viola
+P7,13,fucsia
+P7,14,lilla
+P8,1,nero
+P8,2,bianco
+P8,3,verde chiaro
+P8,4,verde scuro
+P8,5,blu
+P8,6,azzurro
+P8,7,viola
+P8,8,viola chiaro
+P8,9,lilla
+P8,10,arancione
+P8,11,giallo chiaro
+P8,12,giallo scuro
+P8,13,rosso
+P8,14,fucsia
+P8,15,magenta
+P8,16,grigio
+P8,17,oro
+P8,18,marrone chiaro
+P8,19,marrone scuro
+P8,20,rosa chiaro
+P8,21,rosa scuro
+P8,22,rosa pelle
+P9,1,magenta
+P9,2,rosso
+P9,3,rosa
+P9,4,blu
+P9,5,arancione
+P9,6,bianco
+P9,7,verde
+P9,8,giallo
+P9,9,arancione medio
+P9,10,giallo ocra
+P9,11,azzurro
+P9,12,nero
+P9,13,rosa chiaro
+P9,14,marrone
+P9,15,viola
+P9,16,blu
+P10,1,verde
+P10,2,blu
+P10,3,rosso
+P10,4,arancione
+P10,5,azzurro
+P10,6,verde chiaro
+P10,7,marrone
+P10,8,giallo
+P10,9,grigio
+P10,10,trasparente
+P10,11,verde smeraldo
+P10,12,marrone chiaro
+P10,13,bianco
+P11,1,rosso
+P11,2,arancione
+P11,3,giallo
+P11,4,verde
+P11,5,blu
+P11,6,rosa
+P11,7,viola
+P11,8,marrone
+P11,9,nero
+P11,10,grigio
+P11,11,bianco
+P11,12,lilla
+P12,1,nero
+P12,2,bianco
+P12,3,blu oltremare
+P12,4,celeste
+P12,5,azzurro
+P12,6,blu scuro
+P12,7,verde chiaro
+P12,8,verde scuro
+P12,9,rosso
+P12,10,viola
+P12,11,rosa carne
+P12,12,fucsia
+P12,13,marrone
+P12,14,giallo
+P12,15,arancione
+P12,16,giallo ocra
+P12,17,oro
+P12,18,argento
+P13,1,verde
+P13,2,rosso
+P13,3,marrone
+P13,4,nero
+P13,5,blu
+P13,6,viola
+P13,7,bianco
+P13,8,arancione
+P14,1,rosso
+P14,2,turchese
+P14,3,bord
+P14,4,verde
+P14,5,verde menta
+P14,6,verde salvia
+P14,7,azzurro
+P14,8,lilla
+P14,9,blu
+P14,10,fucsia
+P14,11,rosa
+P14,12,viola
+P14,13,verde acqua
+P14,14,marrone scuro
+P14,15,marrone chiaro
+P14,16,arancione scuro
+P14,17,arancione chiaro
+P14,18,grigio
+P14,19,nero
+P14,20,giallo scuro
+P14,21,giallo chiaro
+P14,22,oro
+P14,23,senape
+P15,1,giallo
+P15,2,rosso
+P15,3,blu
+P15,4,azzurro
+P15,5,arancione
+P15,6,verde
+P15,7,viola
+P15,8,rosa
+P15,9,magenta
+P15,10,giallo ocra
+P15,11,marrone scuro
+P15,12,marrone chiaro
+P15,13,nero
+P15,14,grigio
+P15,15,turchese
+P15,16,rosa antico
+P15,17,rosa carne
+P15,18,verde scuro
+P15,19,bianco
+P16,1,arancione
+P16,2,viola
+P16,3,verde acqua
+P16,4,marrone chiaro
+P16,5,marrone scuro
+P16,6,verde
+P16,7,giallo
+P16,8,rosso
+P16,9,rosa
+P16,10,celeste
+P16,11,blu chiaro
+P16,12,blu scuro
+P16,13,nero chiaro
+P16,14,nero scuro
+P16,15,verde chiaro
+P16,16,verde scuro
+P16,17,magenta
+P16,18,oro
+P16,19,giallo chiaro
+P16,20,giallo scuro
+P16,21,viola chiaro
+P16,22,viola scuro
+P17,1,arancione
+P17,2,rosso
+P17,3,rosa
+P17,4,viola
+P17,5,bianco
+P17,6,nero
+P17,7,blu
+P17,8,azzurro
+P17,9,rosso chiaro
+P17,10,rosso scuro
+P17,11,bord
+P17,12,giallo
+P17,13,verde
+P17,14,verde chiaro
+P17,15,verde scuro
+P17,16,blu scuro
+P17,17,marrone
+P17,18,marrone chiaro
+P17,19,viola chiaro
+P17,20,lilla
+P17,21,celeste
+P17,22,giallo scuro
+P17,23,fucsia
+P17,24,grigio
